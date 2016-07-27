@@ -1,0 +1,23 @@
+{
+  "name": "gulp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-sass": "*",
+    "gulp-plumber": "^0.6.6",
+    "gulp-foreach": "*",
+    "gulp-cached": "*",
+    "sass-graph": "*",
+    "gulp-if": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-cssnext": "*",
+    "gulp-combine-media-queries": "*"
+  }
+}
